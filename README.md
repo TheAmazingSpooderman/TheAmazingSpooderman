@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I’m currently working on A++, an interpreter built from scatch in C. Check out the repo (here)[https://github.com/A-Plus-Plus-Devs/aplusplus]
 <!--
 **paulkabzz/paulkabzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
