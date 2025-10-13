@@ -15,7 +15,7 @@ These are some of the repos I’m most proud of:
 
 | Project | Description |
 |---|---|
-| **[apl usplus-plus (A++)](https://github.com/TheAmazingSpooderman/A-Plus-Plus-Devs/tree/main/aplusplus)** | My language: interpreter, runtime, and tooling — all built from scratch in C |
+| **[a-plus-plus (A++)](https://github.com/A-Plus-Plus-Devs/aplusplus)** | My language: interpreter, runtime, and tooling — all built from scratch in C |
 | **[portfolio](https://github.com/TheAmazingSpooderman/portfolio)** | My personal site (Next.js + Appwrite) |
 | **[multivendor-ecommerce](https://github.com/TheAmazingSpooderman/multivendor-ecommerce)** | Full-stack marketplace platform (React, TS, PostgreSQL, Azure Functions) |
 
