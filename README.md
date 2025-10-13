@@ -1,17 +1,42 @@
-## I’m currently working on A++, an interpreter built from scatch in C. Check out the repo [here](https://github.com/A-Plus-Plus-Devs/aplusplus).
+
+
+
+# Hi there, I’m Paul 👋
 
 ![](https://komarev.com/ghpvc/?username=TheAmazingSpooderman)
-<!--
-**paulkabzz/paulkabzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my corner of GitHub! I’m a Computer Science & Enginnering student with a passion for building cool stuff from the ground up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Featured Projects
+
+These are some of the repos I’m most proud of:
+
+| Project | Description |
+|---|---|
+| **[apl usplus-plus (A++)](https://github.com/TheAmazingSpooderman/A-Plus-Plus-Devs/tree/main/aplusplus)** | My language: interpreter, runtime, and tooling — all built from scratch in C |
+| **[portfolio](https://github.com/TheAmazingSpooderman/portfolio)** | My personal site (Next.js + Appwrite) |
+| **[multivendor-ecommerce](https://github.com/TheAmazingSpooderman/multivendor-ecommerce)** | Full-stack marketplace platform (React, TS, PostgreSQL, Azure Functions) |
+
+📌 You can find more in my pinned repos and across my GitHub profile.
+
+---
+
+## 🛠️ Tools & Tech
+
+- **Languages:** C, TypeScript, Python, Java  
+- **Web & Frameworks:** React, Next.js, Node.js  
+- **Databases / Backend:** PostgreSQL
+- **DevOps / Infra:** Docker, serverless functions  
+- **Other interests:** Compilers, interpreters, parsing, runtime systems, algorithms  
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio : [https://paulkabulu.appwrite.network/](https://paulkabulu.appwrite.network/)
+- 👥 GitHub: [@TheAmazingSpooderman](https://github.com/TheAmazingSpooderman)  
+- ✉️ : pkabulu05@gmail.com
+
+
