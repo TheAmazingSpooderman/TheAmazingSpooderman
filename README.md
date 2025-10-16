@@ -31,6 +31,8 @@ These are some of the repos I’m most proud of:
 - **DevOps / Infra:** Docker, serverless functions  
 - **Other interests:** Compilers, interpreters, parsing, runtime systems, algorithms  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheAmazingSpooderman&show_icons=true&theme=dark&locale=en&layout=compact" alt="TheAmazingSpooderman" /></p>
+
 ---
 
 ## 📫 Contact Me
